@@ -2,6 +2,8 @@
 
 This is an Android app that allows users to browse a catalogue of beers using the Punk API. It is built using Kotlin, Android Studio, Retrofit, Data-binding, Material UI, MVVM pattern, and ConstraintLayout.
 
+<img src ="https://user-images.githubusercontent.com/81159555/236662099-13e7ec8b-4233-4c12-b0b4-2933ef3629e9.png" width = "220"/><img src ="https://user-images.githubusercontent.com/81159555/236662108-84fb0d01-ec2a-4bc6-b05b-ce89688e6b84.png" width = "220"/>
+
 ## Tech Stack
 
 * Android Studio: A powerful and intuitive IDE for building Android apps.
@@ -22,5 +24,4 @@ This is an Android app that allows users to browse a catalogue of beers using th
 
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
-3. Build and run the app on your device or emulator.![Screenshot_20230507-120223](https://user-images.githubusercontent.com/81159555/236662099-13e7ec8b-4233-4c12-b0b4-2933ef3629e9.png)
-![Screenshot_20230507-120234](https://user-images.githubusercontent.com/81159555/236662108-84fb0d01-ec2a-4bc6-b05b-ce89688e6b84.png)
+3. Build and run the app on your device or emulator.
